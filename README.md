@@ -1,3 +1,7 @@
+<a href="https://github.com/MattyK-123/Pathfinding">
+	<img src="Assets/search.png" alt="Logo" width="80" height="80">
+</a>
+
 # Pathfinding
 
 This application seeks to demonstrate some of the most popular path finding algorithms by means of a simple maze-like graphical user interface.
