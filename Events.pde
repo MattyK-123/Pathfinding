@@ -48,7 +48,6 @@ void mouseClicked() {
     exit();
     
   }  
-  
 }
 
 void mouseDragged() {
