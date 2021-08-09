@@ -1,6 +1,8 @@
-<a href="https://github.com/MattyK-123/Pathfinding">
-	<img src="Assets/search.png" alt="Logo" width="80" height="80">
-</a>
+<p align="center">
+	<a href="https://github.com/MattyK-123/Pathfinding">
+		<img src="Assets/search.png" alt="Logo" width="80" height="80">
+	</a>
+</p>
 
 # Pathfinding
 
