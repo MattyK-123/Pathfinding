@@ -20,7 +20,7 @@ void setup(){
   surface.setTitle("Pathfinding");
   
   // Setting window image.
-  PImage icon = loadImage("search.png");
+  PImage icon = loadImage("Assets/search.png");
   surface.setIcon(icon);
   
   // Setting screen size.
@@ -41,7 +41,6 @@ void setup(){
   btnAbout =    new Button("About", 520, 420, 160, 20);
   btnExit =     new Button("Exit", 520, 460, 160, 20);
 }
-
 
 void draw(){
   // Draw buttons
