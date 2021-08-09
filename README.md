@@ -14,8 +14,7 @@ The user is able to draw their own custom mazes on the provide grid by using the
 
 ## Authors
 
-Matthew P. Kelly  
-[LinkedIn](https://www.linkedin.com/in/matthew-kelly-aa11a9189/)
+[Matthew P. Kelly](https://www.linkedin.com/in/matthew-kelly-aa11a9189/)
 
 ## License
 
@@ -23,5 +22,5 @@ This project is licensed under the GNU General Public License License - see the 
 
 ## Acknowledgments
 
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
+* [Awesome-readme](https://github.com/matiassingers/awesome-readme)
 * [Prim's Algorithm](https://stackoverflow.com/questions/29739751/implementing-a-randomly-generated-maze-using-prims-algorithm)
