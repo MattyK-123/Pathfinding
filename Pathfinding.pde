@@ -43,6 +43,9 @@ void setup(){
 }
 
 void draw(){
+  // Set light grey background.
+  background(220);
+  
   // Draw buttons
   btnDFS.draw();
   btnBFS.draw();
