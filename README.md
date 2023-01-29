@@ -10,7 +10,7 @@ This application seeks to demonstrate some of the most popular path finding algo
 
 ## Description
 
-The user is able to draw their own custom mazes on the provide grid by using the left mouse button to draw walls. The user is able to set the start and end nodes by using the 'S' and 'E' keys respectively. Once the user has set their desired maze, the user is able to select one of four path finding algorithms in an attempt to solve the proposed maze. Pathfinding algorithms include, Depth-First Search (DFS), Breadth-First Search (BFS), Dijkstra's Algorithm and Greedy Best First Search (GBFS).
+The user is able to draw their own custom mazes on the provided grid by using the left mouse button to draw walls. The user is able to set the start and end nodes by using the 'S' and 'E' keys respectively. Once the user has set their desired maze, the user is able to select one of four path finding algorithms in an attempt to solve the proposed maze. Pathfinding algorithms include, depth-first search (DFS), breadth-first search (BFS), Dijkstra's algorithm and greedy best first search (GBFS).
 
 ## Authors
 
